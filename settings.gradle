@@ -1,0 +1,2 @@
+rootProject.name='TheWishSave'
+include ':app'
